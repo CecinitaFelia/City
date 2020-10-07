@@ -1,0 +1,8 @@
+git init
+git status
+git add .
+git status
+git commit -m mari keliling dunia
+git remote add origin https://github.com/CecinitaFelia/City.git
+git remote -v
+git push -u origin master
